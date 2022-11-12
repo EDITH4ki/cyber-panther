@@ -5,7 +5,7 @@ Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'> Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠ
     HELP_TXT = """"Hᴇʏ {}
 Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.☺️😛"""
     ABOUT_TXT = """○ Mʏ Nᴀᴍᴇ :  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾
-○ Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/darkz_hacker_devil"></> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰</a>
+○ Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/FKMGO">Team Fire Knight (J4k)</a>
 ○ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
 ○ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3
 ○ Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ DB
@@ -13,8 +13,8 @@ Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ 
 ○ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : v1.0.1 [ Bᴇᴛᴀ ]
 ○ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : 🔐"""
     SOURCE_TXT = """<b>NOTE:</b>
--  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ is a Locked project. 
-- Source - 🔐 
+-  <a href="https://t.me/Edithofficial4kiBot"> E.D.I.T.H </a> is a Locked project. 
+- Source - Blocked 
 
 <b>DEVS:</b>
 - <a href="https://t.me/media_bot_updates">Team  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>"""
